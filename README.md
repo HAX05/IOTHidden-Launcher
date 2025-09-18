@@ -14,17 +14,10 @@ A small number of components can also run without root.
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Usage](#usage)
 - [`actions.txt` Format](#actionstxt-format)
 - [Permissions & Root](#permissions--root)
-- [Configuration](#configuration)
-- [Roadmap](#roadmap)
-- [Developer](#developer)
 - [License](#license)
-
----
 
 ## Features ##
 
