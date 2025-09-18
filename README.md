@@ -6,18 +6,17 @@ Import from clipboard or file, search in real time, organize with tags, and run 
 ⚠️ **Warning / Responsibility:** ⚠️ 
 Many bundled intents target internal menus (e.g., Samsung "com.sec.hiddenmenu"). Use at your own risk. Changes may affect device stability and could void warranties.
 
-## ❕️IMPORTANT❕️
+## Important
 ⚠️ if you don't have allready installed IOTHiddenMenu App, you need to install it first! ➡️ APKMirror.
+## Permission
 ⚠️ Root access is supported and recommended, since launching certain Activities requires elevated permissions to function correctly.*
 A small number of components can also run without root.
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
-- [Usage](#usage)
-- [`actions.txt` Format](#actionstxt-format)
-- [Permissions & Root](#permissions--root)
-- [License](#license)
+- [Main UI Light&Dark](#applayout)
+- [Usage & Important](#important)
+- [Permissions & Root](#permission)
 
 ## Features ##
 
@@ -42,6 +41,6 @@ A small number of components can also run without root.
 - Adaptive App Icon >
   plus legacy mipmaps (black background, custom foreground icon).
 
-## MAIN GUI LIGHT/DARK ##
+## AppLayout ##
 <img width="1080" height="2115" alt="IOTHidden_AppMainScreenshot" src="https://github.com/user-attachments/assets/70fba1e9-25ab-421d-89b0-df267bb927c4" />
 
