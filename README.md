@@ -43,3 +43,5 @@ A small number of components can also run without root.
   plus legacy mipmaps (black background, custom foreground icon).
 
 ## Screenshots ##
+<img width="1080" height="2115" alt="IOTHidden_AppMainScreenshot" src="https://github.com/user-attachments/assets/70fba1e9-25ab-421d-89b0-df267bb927c4" />
+
