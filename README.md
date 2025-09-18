@@ -42,6 +42,6 @@ A small number of components can also run without root.
 - Adaptive App Icon >
   plus legacy mipmaps (black background, custom foreground icon).
 
-## Screenshots ##
+## MAIN GUI LIGHT/DARK ##
 <img width="1080" height="2115" alt="IOTHidden_AppMainScreenshot" src="https://github.com/user-attachments/assets/70fba1e9-25ab-421d-89b0-df267bb927c4" />
 
