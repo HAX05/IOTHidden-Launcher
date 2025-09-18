@@ -1,11 +1,15 @@
-<## IOTHidden Launcher ##>
+## 》IOTHidden Launcher《 ##
 
 A lightweight Android launcher to trigger hidden system activities and shell commands—no terminal needed.  
 Import from clipboard or file, search in real time, organize with tags, and run or copy commands with a tap. Includes light/dark theme and adaptive icons.
 
 ⚠️ **Warning / Responsibility:** ⚠️ 
 Many bundled intents target internal menus (e.g., Samsung "com.sec.hiddenmenu"). Use at your own risk. Changes may affect device stability and could void warranties.
-** if you don't have allready installed IOTHiddenMenu, you need to install it first! **
+
+## ❕️IMPORTANT❕️
+⚠️ if you don't have allready installed IOTHiddenMenu App, you need to install it first! ➡️ APKMirror.
+⚠️ Root access is supported and recommended, since launching certain Activities requires elevated permissions to function correctly.*
+A small number of components can also run without root.
 
 ## Table of Contents
 - [Features](#features)
